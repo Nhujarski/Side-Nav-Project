@@ -1,0 +1,15 @@
+.app-layout {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+}
+
+.app-open-nav {
+  cursor: pointer;
+  font-size: 30px;
+  color: #313434;
+}
+
+.app-open-nav:hover {
+  color: darkgray;
+}
